@@ -1,0 +1,3 @@
+pid_function.pbi: \
+  D:\STM32\project_ca_nhan\doanfinal\Core\Src\pid_function.c \
+  D:\STM32\project_ca_nhan\doanfinal\EWARM/../Core/Inc\pid_function.h
